@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/alexellis/upload-assets#readme",
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.11.1",
     "@actions/github": "^6.0.0",
     "glob": "^7.1.6"
   }
